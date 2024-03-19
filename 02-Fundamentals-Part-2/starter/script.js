@@ -31,3 +31,6 @@ console.log(calcAverage(totals));
 const testName = 'John';
 
 console.log('testt1est1');
+
+
+
